@@ -4,6 +4,10 @@ A simple Simon Says memory game built with an Arduino Uno.
 
 This is my first embedded systems project. The goal of the project was to learn the basics of microcontroller programming, digital inputs and outputs, LEDs, buttons, sound generation, and project organization with PlatformIO.
 
+## Online Simulation
+
+[Run the project in Wokwi](https://wokwi.com/projects/477301614359925761)
+
 ## Features
 
 - Five buttons with five corresponding LEDs
